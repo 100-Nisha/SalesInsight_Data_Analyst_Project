@@ -96,6 +96,7 @@ WHERE date.year = 2020
 AND transactions.market_code = 'Mark001';
 
 ## 📈 **Power BI Dashboard**
+
 ### 🔹 Key Insights Visualized:
 Total Revenue: **984.81M**
 Sales Quantity: **2M**
