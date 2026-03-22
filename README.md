@@ -117,8 +117,7 @@ IF(
 
 ## 📷 **Dashboard Preview**
 
-
-
+![Image_ALT]()
 
 ## 💡 **Key Insights**
 **Delhi** is the highest revenue-generating market
