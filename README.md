@@ -117,7 +117,7 @@ IF(
 
 ## 📷 **Dashboard Preview**
 
-![Image_ALT]()
+![Image_ALT](https://github.com/100-Nisha/SalesInsight_Data_Analyst_Project/blob/main/SalesInsight.png)
 
 ## 💡 **Key Insights**
 **Delhi** is the highest revenue-generating market
